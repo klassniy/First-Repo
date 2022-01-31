@@ -1,2 +1,2 @@
-amend
+amend changes test
 amend2
