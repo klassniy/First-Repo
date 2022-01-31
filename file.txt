@@ -1,2 +1,3 @@
 amend
 amend2
+test view log
