@@ -1,2 +1,3 @@
 amend changes test
 amend2
+test view log
